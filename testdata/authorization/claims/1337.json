@@ -3,5 +3,10 @@
     "type": "some:extra:claim",
     "value": "claimValue",
     "valueType": "http://www.w3.org/2001/XMLSchema#string"
+  },
+  {
+    "type": "urn:altinn:rolecode",
+    "value": "OED:proxy",
+    "valueType": "http://www.w3.org/2001/XMLSchema#string"
   }
 ]
